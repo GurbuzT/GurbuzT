@@ -1,16 +1,96 @@
-## Hi there 👋
+# 👋 Hi, I'm Efe Gürbüz
 
-<!--
-**GurbuzT/GurbuzT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Programming Graduate | Junior Software Developer | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Programming graduate from Türkiye with a strong interest in software development, cybersecurity, networking, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently improving my skills through hands-on projects, Cisco Networking Academy courses, and the Akbank Cyber Security Analyst Program. My goal is to build practical solutions, continuously learn new technologies, and contribute to real-world software and cybersecurity projects.
+
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Programming Graduate
+* 💻 Junior Software Developer
+* 🛡️ Cybersecurity Enthusiast
+* 🌐 Interested in AI, Networking and Automation
+* 📚 Currently learning Python, Linux and Network Security
+* 🇬🇧 English (C1)
+* 🇮🇩 Currently learning Indonesian
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+**Tools & Technologies**
+
+* Git
+* GitHub
+* Linux
+* Cisco Packet Tracer
+* VMware
+* Visual Studio
+* VS Code
+
+---
+
+## 📜 Certifications
+
+* Cisco CCNA: Introduction to Networks
+* Cisco Introduction to Cybersecurity
+* Cisco Linux Unhatched
+* Akbank Cyber Security Analyst Program
+* BTK – Introduction to Cybersecurity
+* BTK – Fundamental Network Technologies
+
+---
+
+## 🎯 2026 Goals
+
+* Build a strong software development portfolio
+* Develop cybersecurity tools with Python
+* Improve networking knowledge
+* Contribute to open-source projects
+* Gain professional industry experience
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn
+* GitHub
+* Email
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurbuzT&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbuzT&layout=compact&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=GurbuzT&theme=github-dark)
+![Visitors](https://komarev.com/ghpvc/?username=GurbuzT&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Efe%20Gürbüz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/efe-alp-e-456880332/)
+
+
+---
+
+
+
+
+⭐ Thanks for visiting my profile!
