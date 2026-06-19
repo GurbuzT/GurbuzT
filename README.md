@@ -1,26 +1,30 @@
 # 👋 Hi, I'm Efe Gürbüz
 
+![](https://komarev.com/ghpvc/?username=GurbuzT&label=Profile%20Views&color=0e75b6&style=flat)
+
 ### Computer Programming Graduate | Junior Software Developer | Cybersecurity Enthusiast
 
 I'm a Computer Programming graduate from Türkiye with a strong interest in software development, cybersecurity, networking, and artificial intelligence.
 
-I'm currently improving my skills through hands-on projects, Cisco Networking Academy courses, and the Akbank Cyber Security Analyst Program. My goal is to build practical solutions, continuously learn new technologies, and contribute to real-world software and cybersecurity projects.
+I'm currently improving my skills through hands-on projects, Cisco Networking Academy courses, and the Akbank Cyber Security Analyst Program. My goal is to build practical software solutions, continuously improve my technical skills, and contribute to real-world software and cybersecurity projects.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 Computer Programming Graduate
-* 💻 Junior Software Developer
-* 🛡️ Cybersecurity Enthusiast
-* 🌐 Interested in AI, Networking and Automation
-* 📚 Currently learning Python, Linux and Network Security
-* 🇬🇧 English (C1)
-* 🇮🇩 Currently learning Indonesian
+- 🎓 Computer Programming Graduate
+- 💻 Junior Software Developer
+- 🛡️ Passionate about Cybersecurity & Networking
+- 🤖 Interested in Artificial Intelligence & Automation
+- 🌱 Currently learning Python, Linux & Network Security
+- 🌍 Languages:
+  - 🇹🇷 Turkish (Native)
+  - 🇬🇧 English (C1)
+  - 🇮🇩 Indonesian (Beginner)
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,59 +42,63 @@ I'm currently improving my skills through hands-on projects, Cisco Networking Ac
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-**Tools & Technologies**
+---
 
-* Git
-* GitHub
-* Linux
-* Cisco Packet Tracer
-* VMware
-* Visual Studio
-* VS Code
+# 📜 Certifications
+
+- Cisco CCNA: Introduction to Networks
+- Cisco Introduction to Cybersecurity
+- Cisco Linux Unhatched
+- Akbank Cyber Security Analyst Program
+- BTK – Fundamental Network Technologies
+- BTK – Introduction to Cybersecurity
 
 ---
 
-## 📜 Certifications
+# 🎯 Current Focus
 
-* Cisco CCNA: Introduction to Networks
-* Cisco Introduction to Cybersecurity
-* Cisco Linux Unhatched
-* Akbank Cyber Security Analyst Program
-* BTK – Introduction to Cybersecurity
-* BTK – Fundamental Network Technologies
-
----
-
-## 🎯 2026 Goals
-
-* Build a strong software development portfolio
-* Develop cybersecurity tools with Python
-* Improve networking knowledge
-* Contribute to open-source projects
-* Gain professional industry experience
+- 🛡️ Expanding my cybersecurity knowledge
+- 🐍 Improving Python development skills
+- 🌐 Advancing networking and Linux expertise
+- 💼 Building real-world portfolio projects
+- 🚀 Preparing for a professional software career
 
 ---
 
-## 📫 Connect with Me
+# 🚀 Featured Projects
 
-* LinkedIn
-* GitHub
-* Email
+🔹 Blood Donation Management System (Java)
+
+🔹 Education Institution Automation (C#)
+
+🔹 Spotify Gesture Controller (Python)
+
+> More projects are coming soon...
 
 ---
 
-## 📊 GitHub Stats
+# 📫 Connect with Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GurbuzT&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurbuzT&layout=compact&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=GurbuzT&theme=github-dark)
-![Visitors](https://komarev.com/ghpvc/?username=GurbuzT&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Efe%20Gürbüz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/efe-alp-e-456880332/)
 
+📧 **Email:** flprsy@gmail.com
 
 ---
 
+# 📊 GitHub Statistics
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GurbuzT&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurbuzT&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=GurbuzT&theme=github-dark&hide_border=true"/>
+</p>
+
+---
 
 ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me.
+```
