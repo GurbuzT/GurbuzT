@@ -18,9 +18,9 @@ I'm currently improving my skills through hands-on projects, Cisco Networking Ac
 - 🤖 Interested in Artificial Intelligence & Automation
 - 🌱 Currently learning Python, Linux & Network Security
 - 🌍 Languages:
-  - 🇹🇷 Turkish (Native)
-  - 🇬🇧 English (C1)
-  - 🇮🇩 Indonesian (Beginner)
+  - 🇹🇷 Turkish
+  - 🇬🇧 English
+  - 🇮🇩 Indonesian
 
 ---
 
@@ -79,9 +79,7 @@ I'm currently improving my skills through hands-on projects, Cisco Networking Ac
 
 # 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Efe%20Gürbüz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/efe-alp-e-456880332/)
-
-📧 **Email:** flprsy@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Efe%20Ersoy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/efe-alp-e-456880332/)
 
 ---
 
@@ -101,4 +99,3 @@ I'm currently improving my skills through hands-on projects, Cisco Networking Ac
 ⭐ Thanks for visiting my profile!
 
 Feel free to explore my repositories and connect with me.
-```
